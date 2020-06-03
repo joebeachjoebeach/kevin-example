@@ -1,0 +1,13 @@
+{
+  "name": "kevin-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "html-webpack-plugin": "^4.3.0",
+    "kevin-middleware": "^1.0.2",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
