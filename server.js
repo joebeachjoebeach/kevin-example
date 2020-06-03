@@ -57,5 +57,4 @@ app.use(express.static(path.resolve(__dirname)));
  */
 // app.use(express.static(webpackConfigs[0].output.path));
 
-
 app.listen(9275);
